@@ -1,0 +1,15 @@
+{
+  "name": "My First NFT",
+  "description": "This is my first NFT, a cute cat!",
+  "image": "https://tan-traditional-wallaby-364.mypinata.cloud/ipfs/bafkreieavcajqljlhbumv534n26n567q4nzelv4mxazujg274iobtnngeq", 
+  "attributes": [
+    {
+      "trait_type": "Animal",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Happy"
+    }
+  ]
+}
